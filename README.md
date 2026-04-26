@@ -1,6 +1,5 @@
-# :wave: About Me:
-Hi, I'm Carl, an aspiring Software Engineer specializing in Backend API Development. I focus on building scalable systems and applying theoretical concepts to real-world problems. 
-
+# 👋 About Me:
+Hi, I'm Carl, a Computer Science student focused on backend engineering and API development. I have experience building scalable full stack applications (web and mobile) using the MERN stack. I'm actively expanding my knowledge as a Computer Science senior to be prepared for real-world software engineering challenges. My interests include system design, API development, and database management.
 
 ## 📫 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100004133522230) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ca_rl_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carl-jimroe-pa%C3%B1o-0b3959316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimroep@gmail.com) 
@@ -12,4 +11,3 @@ Hi, I'm Carl, an aspiring Software Engineer specializing in Backend API Developm
 - Writing my undergrad research
 - Learning Laravel API
 - Expanding my backend knowledge
----
