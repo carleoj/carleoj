@@ -1,4 +1,4 @@
-# 🧑‍💻 Hi, I'm Carl
+# 🧑‍💻 Hi there!
 Carl is a Computer Science graduate with a focus on software engineering, specializing in API development. He primarily uses the MERN stack to build full-stack applications. His interests include integrating AI and large language models (LLMs) into software solutions that address real-world problems.
 
 # 💻 Tech Stack:
